@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Self-Hosted Cyber Banner (100% Reliable & Zero 403 Errors) -->
+  <!-- Self-Hosted High-Resolution Cyber Banner (100% Reliable PNG) -->
   <a href="https://github.com/joelbinoy2021-sketch">
-    <img src="https://raw.githubusercontent.com/joelbinoy2021-sketch/joelbinoy2021-sketch/main/assets/banner.svg" width="100%" alt="Joel Binoy - B.Tech CSE & Cybersecurity" />
+    <img src="assets/banner.png" width="100%" alt="Joel Binoy - B.Tech CSE & Cybersecurity" />
   </a>
 
   <br/>
@@ -137,7 +137,7 @@ identity:
 
   <br/><br/>
 
-  <!-- Footer SVG Divider -->
-  <img src="https://raw.githubusercontent.com/joelbinoy2021-sketch/joelbinoy2021-sketch/main/assets/footer.svg" width="100%" alt="Footer Divider" />
+  <!-- Footer Divider -->
+  <img src="assets/footer.png" width="100%" alt="Footer Divider" />
 
 </div>
